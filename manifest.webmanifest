@@ -1,0 +1,15 @@
+{
+    "name": "Biznesmen Simulator",
+    "short_name": "Biznesmen Simulator",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#00000E",
+    "theme_color": "#000",
+    "description": "Meded by Fizeri",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
